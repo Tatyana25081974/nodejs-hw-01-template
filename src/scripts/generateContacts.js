@@ -24,5 +24,5 @@ export async function generateContacts(count) {
   }
 }
 
-// Запускаємо генерацію — наприклад, 5 контактів
+
 generateContacts(5);
